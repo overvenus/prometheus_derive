@@ -1,0 +1,9 @@
+[package]
+name = "prometheus_derive"
+version = "0.1.0"
+authors = ["Neil Shen <overvenus@gmail.com>"]
+
+[lib]
+proc_macro = true
+
+[dependencies]
